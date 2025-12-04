@@ -1,2 +1,14 @@
 git config --global user.name "ba1zhan"
 git config --global user.email "makulbekovbaijan@gmail.com"
+==================================================================
+
+git init
+==================================================================
+
+
+ git status
+ git add .
+ git add путь\название файла или дерикторие
+ git commit -m "same text"
+ git push origin master
+ git rm -r название не нужных файлов или дерикторий
